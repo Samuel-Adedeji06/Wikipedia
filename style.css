@@ -1,0 +1,143 @@
+.firstdive {
+    margin: 50px 0px 10px 570px;
+    font-size: 32px;
+}
+.wiki {
+    font-size: 30px;
+}
+.firstdiv { 
+    margin: 0px 0px 0px 580px;
+}
+img {
+    margin: 10px 100px -300px 540px;
+    width: 210px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+.div1 {
+    display: flex;
+    /* padding: 100px opx 0px 600px; */
+}
+.languages {
+    padding: 30px 0px 0px 450px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.articles {
+    padding-top: 5px;
+    color: grey;
+    text-decoration: none;
+}
+.lan {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+.AAA:hover {
+    text-decoration: underline;
+}
+.articles:hover {
+    text-decoration: none;
+}
+.anchor:hover {
+    background-color: rgb(23, 236, 240);
+    border: 2px solid grey;
+}
+input {
+    width: 350px;
+    height: 30px;
+    margin: 20px 0px 0px 450px;
+}
+.placeholder {
+    margin-left: px;
+}
+.button1 {
+    color: blue;
+    width: 70px;
+    height: 30px;
+    margin: 20px 0px -20px 0px;
+    background-color: blue;
+}
+.hr {
+    border-bottom: 1px solid grey;
+    width: 70px;
+    margin-bottom: 20px;
+}
+.seconddiv {
+    margin: 20px 400px;
+    display: flex;
+    gap: 20px;
+}
+.small-image{
+    width: 50px;
+    height: 50px;
+}
+.span {
+    border: 1px solid grey;
+    color: blue;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.button2 {
+    width: 300px;
+    height: 35px;
+    color: blue;
+    padding: 10px;
+}
+.lastdiv {
+    display: flex;
+}
+.span1 {
+    color: blue;
+}
+.lastborder {
+    border: 1px thin lightgray;
+    background-color: lightgray;
+    height: 200px;
+    width: 300px;
+    padding: 10px 30px 0px 10px;
+}
+.firstflex {
+    margin: 20px 0px 0px 100px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 19.5px;
+}
+ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 20px 0px 0px 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+ul:hover {
+    text-decoration: none;
+}
+.span2 {
+    color: grey;
+}
+li:hover {
+    text-decoration: none;
+    background-color: rgb(234, 236, 240);
+}
+li {
+    padding: 20px 0px 50px 0px;
+    font-size: 13px;
+}
+.list {
+    display: flex;
+    list-style: circle;
+}
+.last {
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 0px 10px 300px;
+}
+.RES {
+    display: none;
+}
+.lass {
+    display: none;
+}

@@ -1,0 +1,51 @@
+@media screen and (max-width: 475px) {
+    .firstdive {
+        margin: 20px 0px 0px 60px;
+        font-size: 20px;
+    }
+    .input {
+        /* margin: 0px 0px 0px 60px; */
+        margin: -580px 0px 0px -450px;
+    }
+    input {
+        width: 190px;
+        margin-top: 570px;
+    }
+    .button1 {
+        width: 50px;
+    }
+    .firstdiv {
+        margin: 0px 0px 0px 60px;
+        font-size: 12px;
+    }
+    .wiki-logo {
+        width: 40px;
+        margin: -50px 0px 20px 20px;
+    }
+    .div1 {
+        display: none;
+    }
+    .lastdiv {
+        margin-top: 1000px;
+    }
+    .seconddiv {
+        margin: 400px 0px 0px -50px;
+        width: 150px;
+    }
+    .RES {
+        display: contents;
+        margin: -2550px 0px 0px -120px;
+    }
+    .DDD {
+        font-size: 11px;
+        margin: -1000px 0px 0px -100px;
+        justify-content: center;
+    }
+    .lase {
+        display: none;
+    }
+    .lass {
+        display: contents;
+        margin: -2000px 0px 100px -40px;
+    }
+}
